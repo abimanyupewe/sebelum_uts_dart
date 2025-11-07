@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Per5 extends StatefulWidget {
+  const Per5({super.key});
+
   @override
   State<Per5> createState() => _Per5State();
 }
@@ -84,31 +86,31 @@ class _Per5State extends State<Per5> {
               children: [
                 ElevatedButton(
                   onPressed: () => hitung('+'),
-                  child: Text("+", style: TextStyle(color: Colors.white)),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.deepPurple,
                   ),
+                  child: Text("+", style: TextStyle(color: Colors.white)),
                 ),
                 ElevatedButton(
                   onPressed: () => hitung('-'),
-                  child: Text("-", style: TextStyle(color: Colors.white)),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.deepPurple,
                   ),
+                  child: Text("-", style: TextStyle(color: Colors.white)),
                 ),
                 ElevatedButton(
                   onPressed: () => hitung('x'),
-                  child: Text("x", style: TextStyle(color: Colors.white)),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.deepPurple,
                   ),
+                  child: Text("x", style: TextStyle(color: Colors.white)),
                 ),
                 ElevatedButton(
                   onPressed: () => hitung(':'),
-                  child: Text(":", style: TextStyle(color: Colors.white)),
                   style: ElevatedButton.styleFrom(
                     backgroundColor: Colors.deepPurple,
                   ),
+                  child: Text(":", style: TextStyle(color: Colors.white)),
                 ),
               ],
             ),

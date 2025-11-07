@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
 class Pert3 extends StatefulWidget {
+  const Pert3({super.key});
+
   @override
   State<Pert3> createState() => _Pert3State();
 }
@@ -34,8 +36,8 @@ class _Pert3State extends State<Pert3> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Text("Nama : ${nama}"),
-                    Text("Jurusan : ${jurusan}"),
+                    Text("Nama : $nama"),
+                    Text("Jurusan : $jurusan"),
                     Text("Nim : ${nim.toString()}"),
                   ],
                 ),

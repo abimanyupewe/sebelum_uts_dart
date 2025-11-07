@@ -4,6 +4,8 @@ class Pertemuan1 extends StatelessWidget {
   final String nama = 'Abimanyu Priyo Widagdo';
   final List<String> hobi = ['Bersepeda', 'Membaca', 'Coding'];
 
+  Pertemuan1({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
