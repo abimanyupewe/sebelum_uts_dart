@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:sebelum_uts_dart/data/dataMatkul.dart';
+import 'package:sebelum_uts_dart/home.dart';
 import 'package:sebelum_uts_dart/tugas/praktikum_4.dart';
 
 void main() {
@@ -15,6 +17,6 @@ class MyApp extends StatefulWidget {
 class _MyAppState extends State<MyApp> {
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(debugShowCheckedModeBanner: false, home: Praktikum4());
+    return MaterialApp(debugShowCheckedModeBanner: false, home: HomePage());
   }
 }
