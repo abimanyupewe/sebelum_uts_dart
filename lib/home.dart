@@ -8,10 +8,7 @@ class HomePage extends StatelessWidget {
     final DataMatkul matkul = DataMatkul();
     return Scaffold(
       drawer: Drawer(
-        child: Padding(
-          padding: const EdgeInsets.all(),
-          child: ListPratikum(praktikum: matkul.praktikum),
-        ),
+        child: ListPratikum(praktikum: matkul.praktikum),
       ),
       appBar: AppBar(title: Text("Pemrograman Mobile")),
       body: ListPratikum(praktikum: matkul.praktikum),
