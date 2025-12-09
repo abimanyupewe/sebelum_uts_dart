@@ -1,0 +1,455 @@
+{
+  "status": "success",
+  "data": [
+    {
+      "id": 1,
+      "title": "Seminar Karier di Era Digital",
+      "category": "Seminar",
+      "date": "2025-12-10",
+      "time": "09:00",
+      "location": "Aula Utama Lt. 3",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 2,
+      "title": "Workshop UI/UX untuk Pemula",
+      "category": "Workshop",
+      "date": "2025-12-12",
+      "time": "13:00",
+      "location": "Lab Komputer 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 3,
+      "title": "Lomba Desain Poster Kreatif",
+      "category": "Lomba",
+      "date": "2025-12-15",
+      "time": "10:00",
+      "location": "Gedung Serbaguna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 4,
+      "title": "Pelatihan Pembuatan Website untuk Pemula",
+      "category": "Pelatihan",
+      "date": "2025-12-20",
+      "time": "14:00",
+      "location": "Lab Komputer 2",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 5,
+      "title": "Webinar Teknologi Blockchain di Dunia Finansial",
+      "category": "Webinar",
+      "date": "2025-12-22",
+      "time": "16:00",
+      "location": "Online",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 6,
+      "title": "Workshop Java untuk Pemula",
+      "category": "Workshop",
+      "date": "2025-12-25",
+      "time": "08:00",
+      "location": "Lab Komputer 3",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 7,
+      "title": "Seminar Manajemen Waktu untuk Mahasiswa",
+      "category": "Seminar",
+      "date": "2025-12-30",
+      "time": "11:00",
+      "location": "Aula Utama Lt. 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 8,
+      "title": "Pelatihan Digital Marketing untuk UMKM",
+      "category": "Pelatihan",
+      "date": "2026-01-05",
+      "time": "09:00",
+      "location": "Ruangan 301",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 9,
+      "title": "Workshop Pembuatan Aplikasi Android",
+      "category": "Workshop",
+      "date": "2026-01-10",
+      "time": "14:00",
+      "location": "Lab Komputer 4",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 10,
+      "title": "Seminar Kewirausahaan di Era Digital",
+      "category": "Seminar",
+      "date": "2026-01-15",
+      "time": "10:00",
+      "location": "Aula Serba Guna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 11,
+      "title": "Lomba Robotika Mahasiswa",
+      "category": "Lomba",
+      "date": "2026-01-20",
+      "time": "08:00",
+      "location": "Gedung Teknik",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 12,
+      "title": "Pelatihan SEO untuk Pemula",
+      "category": "Pelatihan",
+      "date": "2026-01-22",
+      "time": "13:00",
+      "location": "Lab Komputer 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 13,
+      "title": "Seminar Pemasaran Digital untuk Startup",
+      "category": "Seminar",
+      "date": "2026-01-25",
+      "time": "16:00",
+      "location": "Aula Utama",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 14,
+      "title": "Webinar Pemrograman Python untuk Data Science",
+      "category": "Webinar",
+      "date": "2026-01-28",
+      "time": "09:00",
+      "location": "Online",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 15,
+      "title": "Pelatihan Desain Grafis dengan Adobe Illustrator",
+      "category": "Pelatihan",
+      "date": "2026-02-05",
+      "time": "08:00",
+      "location": "Lab Desain",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 16,
+      "title": "Workshop Pemrograman C++ untuk Pemula",
+      "category": "Workshop",
+      "date": "2026-02-10",
+      "time": "14:00",
+      "location": "Lab Komputer 2",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 17,
+      "title": "Seminar Pengembangan Karier di Dunia IT",
+      "category": "Seminar",
+      "date": "2026-02-15",
+      "time": "10:00",
+      "location": "Aula Utama Lt. 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 18,
+      "title": "Lomba Karya Tulis Ilmiah Nasional",
+      "category": "Lomba",
+      "date": "2026-02-20",
+      "time": "09:00",
+      "location": "Gedung Serbaguna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 19,
+      "title": "Workshop Web Development dengan HTML/CSS",
+      "category": "Workshop",
+      "date": "2026-02-25",
+      "time": "08:00",
+      "location": "Lab Komputer 3",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 20,
+      "title": "Pelatihan Pembuatan Video Marketing",
+      "category": "Pelatihan",
+      "date": "2026-03-05",
+      "time": "13:00",
+      "location": "Studio Media",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 21,
+      "title": "Webinar Keamanan Siber di Dunia Digital",
+      "category": "Webinar",
+      "date": "2026-03-10",
+      "time": "09:00",
+      "location": "Online",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 22,
+      "title": "Seminar Pengembangan Aplikasi Mobile",
+      "category": "Seminar",
+      "date": "2026-03-15",
+      "time": "10:00",
+      "location": "Aula Serba Guna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 23,
+      "title": "Workshop Game Development untuk Pemula",
+      "category": "Workshop",
+      "date": "2026-03-20",
+      "time": "14:00",
+      "location": "Lab Komputer 4",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 24,
+      "title": "Pelatihan Manajemen Proyek untuk Mahasiswa",
+      "category": "Pelatihan",
+      "date": "2026-03-25",
+      "time": "09:00",
+      "location": "Ruangan 302",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 25,
+      "title": "Seminar Leadership untuk Mahasiswa",
+      "category": "Seminar",
+      "date": "2026-03-30",
+      "time": "16:00",
+      "location": "Aula Utama",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 26,
+      "title": "Lomba Video Pendek Kreatif",
+      "category": "Lomba",
+      "date": "2026-04-05",
+      "time": "08:00",
+      "location": "Gedung Seni",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 27,
+      "title": "Workshop Pembuatan Aplikasi iOS",
+      "category": "Workshop",
+      "date": "2026-04-10",
+      "time": "14:00",
+      "location": "Lab Komputer 5",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 28,
+      "title": "Seminar Desain Grafis untuk Pemula",
+      "category": "Seminar",
+      "date": "2026-04-15",
+      "time": "10:00",
+      "location": "Aula Utama Lt. 2",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 29,
+      "title": "Pelatihan Big Data dan Analitik",
+      "category": "Pelatihan",
+      "date": "2026-04-20",
+      "time": "13:00",
+      "location": "Ruangan 303",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 30,
+      "title": "Workshop Pengembangan Karier di Dunia IT",
+      "category": "Workshop",
+      "date": "2026-04-25",
+      "time": "08:00",
+      "location": "Lab Komputer 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 31,
+      "title": "Webinar Penggunaan AI untuk Bisnis",
+      "category": "Webinar",
+      "date": "2026-04-30",
+      "time": "09:00",
+      "location": "Online",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 32,
+      "title": "Seminar tentang Teknologi Cloud Computing",
+      "category": "Seminar",
+      "date": "2026-05-05",
+      "time": "16:00",
+      "location": "Aula Utama",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 33,
+      "title": "Lomba Cipta Lagu Mahasiswa",
+      "category": "Lomba",
+      "date": "2026-05-10",
+      "time": "10:00",
+      "location": "Gedung Seni",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 34,
+      "title": "Pelatihan Data Science untuk Pemula",
+      "category": "Pelatihan",
+      "date": "2026-05-15",
+      "time": "13:00",
+      "location": "Ruangan 305",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 35,
+      "title": "Workshop Pembuatan Website E-Commerce",
+      "category": "Workshop",
+      "date": "2026-05-20",
+      "time": "08:00",
+      "location": "Lab Komputer 6",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 36,
+      "title": "Seminar Bisnis Start-Up untuk Mahasiswa",
+      "category": "Seminar",
+      "date": "2026-05-25",
+      "time": "10:00",
+      "location": "Aula Utama Lt. 1",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 37,
+      "title": "Lomba Debat Mahasiswa Nasional",
+      "category": "Lomba",
+      "date": "2026-06-01",
+      "time": "08:00",
+      "location": "Gedung Serbaguna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 38,
+      "title": "Workshop Pemrograman Web Lanjut",
+      "category": "Workshop",
+      "date": "2026-06-05",
+      "time": "14:00",
+      "location": "Lab Komputer 7",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 39,
+      "title": "Seminar Cloud Computing untuk Mahasiswa",
+      "category": "Seminar",
+      "date": "2026-06-10",
+      "time": "09:00",
+      "location": "Aula Utama Lt. 2",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 40,
+      "title": "Pelatihan Android Development Lanjutan",
+      "category": "Pelatihan",
+      "date": "2026-06-15",
+      "time": "13:00",
+      "location": "Lab Komputer 8",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 41,
+      "title": "Webinar Desain UX untuk Aplikasi Mobile",
+      "category": "Webinar",
+      "date": "2026-06-20",
+      "time": "14:00",
+      "location": "Online",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 42,
+      "title": "Workshop Pemrograman Python untuk AI",
+      "category": "Workshop",
+      "date": "2026-06-25",
+      "time": "08:00",
+      "location": "Lab Komputer 9",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 43,
+      "title": "Seminar E-Commerce dan Digital Marketing",
+      "category": "Seminar",
+      "date": "2026-06-30",
+      "time": "13:00",
+      "location": "Aula Serba Guna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 44,
+      "title": "Lomba Pidato Mahasiswa",
+      "category": "Lomba",
+      "date": "2026-07-05",
+      "time": "10:00",
+      "location": "Gedung Seni",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 45,
+      "title": "Workshop Pengembangan Aplikasi Desktop",
+      "category": "Workshop",
+      "date": "2026-07-10",
+      "time": "14:00",
+      "location": "Lab Komputer 10",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 46,
+      "title": "Pelatihan Pengolahan Data dengan Excel",
+      "category": "Pelatihan",
+      "date": "2026-07-15",
+      "time": "09:00",
+      "location": "Ruangan 307",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 47,
+      "title": "Seminar Teknologi 5G dan Masa Depannya",
+      "category": "Seminar",
+      "date": "2026-07-20",
+      "time": "13:00",
+      "location": "Aula Utama",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 48,
+      "title": "Lomba Esai Mahasiswa",
+      "category": "Lomba",
+      "date": "2026-07-25",
+      "time": "08:00",
+      "location": "Gedung Serbaguna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 49,
+      "title": "Workshop Data Visualization untuk Pemula",
+      "category": "Workshop",
+      "date": "2026-07-30",
+      "time": "14:00",
+      "location": "Lab Komputer 11",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    },
+    {
+      "id": 50,
+      "title": "Seminar Pengembangan Teknologi di Sektor Industri",
+      "category": "Seminar",
+      "date": "2026-08-05",
+      "time": "09:00",
+      "location": "Aula Serba Guna",
+      "thumbnail_url": "https://via.placeholder.com/50"
+    }
+  ]
+}
